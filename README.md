@@ -11,4 +11,4 @@ For installing: zip the file and import it from Wordpress admin panel. Use the d
 ## Development Status :
 
 Depreciated, must be uptated to be complient with the last Wordpress API.
-Installation works, but the display is buggy.
+Installation works, url rewriting does not, please set simple permalink in admin panel.
